@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently studying Full Stack Developer
+🔭 I’m currently studying Full Stack Developer (Python)
 
 🏫 ...studying with classes from Luis Otavio
 
