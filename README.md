@@ -2,7 +2,7 @@
 
 🔭 I’m currently studying Full Stack Developer
 
-🏫 ...studying at BlueEdTech
+🏫 ...studying with classes from Luis Otavio
 
 🏠 I live in Mogi das Cruzes, Sao Paulo, Brazil
 
