@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently studying Full Stack Developer (Python)
+🔭 I’m currently studying Full Stack Developer (javaScript/Cod3r/Proz)
 
-🏫 ...studying with classes from Luis Otavio
 
 🏠 I live in Mogi das Cruzes, Sao Paulo, Brazil
 
