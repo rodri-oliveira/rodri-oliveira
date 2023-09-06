@@ -4,7 +4,7 @@ Sou um entusiasta de Ciência de Dados apaixonado por transformar dados em insig
 
 ## 🚀 Meu Foco Atual: Ciência de Dados
 
-📊 Estou atualmente estudando Ciência de Dados, mergulhando nos conceitos fundamentais da análise de dados, machine learning e visualização de dados. Minha paixão por dados me impulsiona a buscar soluções para problemas complexos e a tomar decisões informadas com base em insights analíticos.
+📊 Estou atualmente estudando Ciência de Dados (Prof Fernando Amaral), mergulhando nos conceitos fundamentais da análise de dados, machine learning e visualização de dados. Minha paixão por dados me impulsiona a buscar soluções para problemas complexos e a tomar decisões informadas com base em insights analíticos.
 
 ## 🌟 Minhas Stacks e Cursos
 
