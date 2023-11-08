@@ -31,6 +31,7 @@ No meu tempo livre, gosto de explorar projetos pessoais, estudar novas tecnologi
 
 
 
+
   
 
 
