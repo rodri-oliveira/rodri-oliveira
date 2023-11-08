@@ -1,14 +1,21 @@
-# Olá, eu sou Rodrigo de Oliveira 👋
+Olá, sou Rodrigo de Oliveira e estou em uma empolgante jornada de estudo e aprimoramento como desenvolvedor back-end. Desde que iniciei minha jornada, tenho mergulhado no mundo das tecnologias e práticas que sustentam o funcionamento robusto e eficiente de aplicativos e sistemas.
 
-Sou um entusiasta de Ciência de Dados apaixonado por transformar dados em insights significativos e criar soluções baseadas em dados. Atualmente, estou em uma jornada de aprendizado e exploração no mundo da Ciência de Dados.
+Atualmente, estou cursando Superior em desenvolvimento Back-End e estou focado em adquirir conhecimentos sólidos em áreas como:
 
-## 🚀 Meu Foco Atual: Ciência de Dados
+- Desenvolvimento de servidores e APIs.
+- Manipulação de bancos de dados e otimização de consultas.
+- Gerenciamento de servidores e infraestrutura.
+- Garantia de segurança e escalabilidade.
+- Trabalho em equipe e colaboração com desenvolvedores front-end e outros profissionais de TI.
 
-📊 Estou atualmente estudando Ciência de Dados (Prof Fernando Amaral), mergulhando nos conceitos fundamentais da análise de dados, machine learning e visualização de dados. Minha paixão por dados me impulsiona a buscar soluções para problemas complexos e a tomar decisões informadas com base em insights analíticos.
+Minha paixão pelo desenvolvimento back-end vem da vontade de construir as bases sólidas que sustentam as experiências incríveis que os usuários veem na interface do usuário. Estou animado para enfrentar desafios, aprender constantemente e contribuir para projetos significativos.
+
+No meu tempo livre, gosto de explorar projetos pessoais, estudar novas tecnologias e compartilhar conhecimento com a comunidade de desenvolvedores. Se você estiver interessado em colaborar, discutir ideias ou simplesmente bater um papo sobre o desenvolvimento back-end, não hesite em entrar em contato!
+.
+
+## 🚀 Meu Foco Atual: Back-End/Java
 
 ## 🌟 Minhas Stacks e Cursos
-
-Navegue pelas tecnologias e cursos que explorei:
 
 - Desenvolvimento Web:
 
@@ -17,6 +24,15 @@ Navegue pelas tecnologias e cursos que explorei:
 - Ciência de Dados:
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code)
+
+- Back-End:
+  
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+
+
+  
+
+
 
 
 
