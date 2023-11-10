@@ -1,16 +1,16 @@
-Olá, sou Rodrigo de Oliveira e estou em uma empolgante jornada de estudo e aprimoramento como desenvolvedor back-end. Desde que iniciei minha jornada, tenho mergulhado no mundo das tecnologias e práticas que sustentam o funcionamento robusto e eficiente de aplicativos e sistemas.
+**Olá, sou Rodrigo de Oliveira e estou em uma empolgante jornada de estudo e aprimoramento como desenvolvedor back-end. Desde que iniciei minha jornada, tenho mergulhado no mundo das tecnologias e práticas que sustentam o funcionamento robusto e eficiente de aplicativos e sistemas.**
 
-Atualmente, estou cursando Superior em desenvolvimento Back-End e estou focado em adquirir conhecimentos sólidos em áreas como:
+**Atualmente, estou cursando Superior em desenvolvimento Back-End e estou focado em adquirir conhecimentos sólidos em áreas como:**
 
-- Desenvolvimento de servidores e APIs.
-- Manipulação de bancos de dados e otimização de consultas.
-- Gerenciamento de servidores e infraestrutura.
-- Garantia de segurança e escalabilidade.
-- Trabalho em equipe e colaboração com desenvolvedores front-end e outros profissionais de TI.
+**- Desenvolvimento de servidores e APIs.**
+**- Manipulação de bancos de dados e otimização de consultas.**
+**- Gerenciamento de servidores e infraestrutura.**
+**- Garantia de segurança e escalabilidade.**
+**- Trabalho em equipe e colaboração com desenvolvedores front-end e outros profissionais de TI.**
 
-Minha paixão pelo desenvolvimento back-end vem da vontade de construir as bases sólidas que sustentam as experiências incríveis que os usuários veem na interface do usuário. Estou animado para enfrentar desafios, aprender constantemente e contribuir para projetos significativos.
+**Minha paixão pelo desenvolvimento back-end vem da vontade de construir as bases sólidas que sustentam as experiências incríveis que os usuários veem na interface do usuário. Estou animado para enfrentar desafios, aprender constantemente e contribuir para projetos significativos.**
 
-No meu tempo livre, gosto de explorar projetos pessoais, estudar novas tecnologias e compartilhar conhecimento com a comunidade de desenvolvedores. Se você estiver interessado em colaborar, discutir ideias ou simplesmente bater um papo sobre o desenvolvimento back-end, não hesite em entrar em contato!
+**No meu tempo livre, gosto de explorar projetos pessoais, estudar novas tecnologias e compartilhar conhecimento com a comunidade de desenvolvedores. Se você estiver interessado em colaborar, discutir ideias ou simplesmente bater um papo sobre o desenvolvimento back-end, não hesite em entrar em contato!**
 .
 
 ## 🚀 Meu Foco Atual: Back-End/Java
