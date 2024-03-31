@@ -27,7 +27,7 @@
 
 - Back-End:
   
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=sql&logoColor=white)
+   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=sql&logoColor=white) ![JDBC/DAO](https://img.shields.io/badge/JDBC%2FDAO-007396?style=for-the-badge&logo=java&logoColor=white)
 
 
 
