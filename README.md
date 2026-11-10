@@ -35,7 +35,6 @@ Entre os trabalhos realizados, destaco uma plataforma de apoio à gestão de pro
 ### Outros projetos pessoais de engenharia de software
 - [AtendeJá – chatbot, operações e relatórios](https://github.com/rodri-oliveira/atendeJA-ND-Imoveis-) — FastAPI, React, autenticação, dados e dashboards.
 - [Smart Invest](https://github.com/rodri-oliveira/smart-invest) — API e processamento de dados em Python.
-- [API de Clima e Transporte](https://github.com/rodri-oliveira/rota-clima-api-NestJs) — desenvolvimento de API com NestJS.
 
 Esses projetos documentam minha base anterior em engenharia de software; meu objetivo profissional atual é atuar em **operações de segurança / Blue Team**.
 
