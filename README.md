@@ -1,43 +1,46 @@
-# Rodrigo de Oliveira | Em formação para SOC Analyst Júnior (Blue Team)
+# Rodrigo de Oliveira
 
-Profissional de tecnologia com experiência em **desenvolvimento de aplicações corporativas, automação de processos e integração de sistemas**, atualmente em transição para **Segurança da Informação**, com foco em **SOC Analyst L1 / Analista de Segurança da Informação Júnior**.
+**Em transição para Analista de Segurança da Informação Júnior (SOC L1 / Blue Team)**  
+Experiência anterior em desenvolvimento de software e automação corporativa.
 
-Minha experiência anterior com APIs, bancos de dados, autenticação, integrações e observabilidade contribui para compreender como sistemas funcionam e como podem ser monitorados e protegidos. Estou consolidando essa base com estudos e laboratórios práticos de segurança defensiva.
+Trabalhei com APIs, bancos de dados, integrações e aplicações de apoio à operação. Atualmente aprofundo fundamentos de redes, Linux, Windows, autenticação e análise de evidências para atuar em segurança defensiva.
 
-📍 Mogi das Cruzes, SP, Brasil · [LinkedIn](https://www.linkedin.com/in/rodrigo-de-oliveira-528a33203/) · [E-mail](mailto:rodrigoleao.ci@gmail.com)
+📍 Mogi das Cruzes, SP, Brasil · [LinkedIn](https://www.linkedin.com/in/rodrigo-de-oliveira-528a33203/) · [Contato por e-mail](mailto:rodrigoleao.ci@gmail.com)
 
-## Portfólio de Segurança da Informação
+## Projetos selecionados
 
-| Projeto | O que demonstra | Situação |
-| --- | --- | --- |
-| [Cybersecurity Learning Portfolio](https://github.com/rodri-oliveira/cybersecurity-learning-portfolio) | Relatórios de estudos e exercícios em redes, sistemas, autenticação e fundamentos de cibersegurança | Em desenvolvimento |
-| [Blue Team SOC Lab](https://github.com/rodri-oliveira/blue-team-soc-lab) | Auditoria autorizada de dispositivo Android, coleta e interpretação de evidências e planejamento de automações defensivas | Em desenvolvimento |
-| [TryHackMe](https://tryhackme.com/p/rodrigoleao.ci) | Trilha de aprendizado e exercícios em ambientes autorizados | Em andamento |
+| Projeto | O que você encontrará |
+| --- | --- |
+| [Blue Team SOC Lab](https://github.com/rodri-oliveira/blue-team-soc-lab) | Laboratório defensivo com auditoria autorizada de dispositivo próprio, procedimentos e limites das evidências |
+| [Cybersecurity Learning Portfolio](https://github.com/rodri-oliveira/cybersecurity-learning-portfolio) | Relatórios de fundamentos e exercícios do TryHackMe, publicados conforme a evolução dos estudos |
+| [AtendeJá — ND Imóveis](https://github.com/rodri-oliveira/atendeJA-ND-Imoveis-) | Aplicação pessoal com API FastAPI, interface React, autenticação e painéis de acompanhamento |
+| [FastAPI Modular Starter](https://github.com/rodri-oliveira/rest-api-com-python---fastapi) | Estrutura educativa de API com organização em camadas, autenticação e testes |
+| [Smart Invest](https://github.com/rodri-oliveira/smart-invest) | Projeto pessoal de processamento de dados e API em Python para análise quantitativa |
 
-**Método:** conceito → prática → resultado observado → interpretação → documentação.
+Os projetos de segurança estão **em desenvolvimento**. Ferramentas como SIEM, EDR e SOAR fazem parte do plano de aprendizado; não são apresentadas aqui como experiência já adquirida.
 
-Os relatórios buscam explicar o objetivo de cada atividade, os comandos utilizados, as evidências coletadas, as limitações e as lições aprendidas, sem publicar flags, credenciais ou dados pessoais.
+## Experiência profissional anterior — desenvolvimento e automação
 
-### Conhecimentos em desenvolvimento
-- **Sistemas e redes:** Windows, Linux, PowerShell, Bash, protocolos de rede e análise de tráfego.
-- **Identidade e acesso:** fundamentos de Active Directory, autenticação e permissões.
-- **Segurança defensiva:** análise inicial de eventos e logs, identificação de comportamentos suspeitos, investigação baseada em evidências.
-- **Próximas etapas práticas:** ampliar o laboratório e estudar o uso de SIEM, EDR e SOAR. **Essas ferramentas ainda não representam experiência operacional comprovada neste portfólio.**
+**WEG | TI (estágio)**
 
-## Experiência anterior em desenvolvimento e automação
+- **Plataforma de apoio ao PMO:** desenvolvimento de componentes para organizar projetos, equipes, recursos, alocações e comparativos de horas planejadas e realizadas, com tecnologias como FastAPI, Next.js, PostgreSQL e integrações.
+- **Automação de processos financeiros:** desenvolvimento de rotinas em Python para processamento, comparação e validação de informações de diferentes fontes, com geração de relatórios de divergências.
 
-Durante minha experiência em TI corporativa na **WEG**, participei do desenvolvimento de soluções de gestão e automação, com uso de **Python, FastAPI, Next.js/React, PostgreSQL, integração com sistemas e relatórios**.
+Esses trabalhos demonstram experiência com regras de negócio, dados, sistemas integrados e solução de problemas reais. A divulgação de código e outros materiais corporativos depende de revisão de confidencialidade e autorização.
 
-Entre os trabalhos realizados, destaco uma plataforma de apoio à gestão de projetos e recursos (PMO) e soluções de automação para conferência de dados de contratos e finanças.
+## Competências técnicas
 
-**Nota de confidencialidade:** projetos corporativos estão em revisão de documentação, permissões de publicação e sanitização. Descrições acima são de alto nível; demonstrações públicas só serão disponibilizadas quando houver autorização e uso de dados e infraestrutura independentes.
+**Experiência anterior:** Python, APIs REST, FastAPI, SQL, PostgreSQL, JavaScript/TypeScript, React/Next.js, Git, Docker, automação e documentação técnica.
 
-### Outros projetos pessoais de engenharia de software
-- [AtendeJá – chatbot, operações e relatórios](https://github.com/rodri-oliveira/atendeJA-ND-Imoveis-) — FastAPI, React, autenticação, dados e dashboards.
-- [Smart Invest](https://github.com/rodri-oliveira/smart-invest) — API e processamento de dados em Python.
+**Estudos atuais de segurança:** redes e protocolos, Linux, Windows, PowerShell/Bash, Active Directory, controle de acesso, análise de tráfego e fundamentos de detecção e resposta.
 
-Esses projetos documentam minha base anterior em engenharia de software; meu objetivo profissional atual é atuar em **operações de segurança / Blue Team**.
+**Como documento meu aprendizado:** objetivo → procedimento → observação → interpretação → limitações. Os relatórios são baseados em atividades autorizadas, sem publicar flags ou credenciais.
 
-## Contato
+## Formação e desenvolvimento contínuo
 
-[LinkedIn](https://www.linkedin.com/in/rodrigo-de-oliveira-528a33203/) · [GitHub](https://github.com/rodri-oliveira) · [E-mail](mailto:rodrigoleao.ci@gmail.com)
+Graduação em Tecnologia em Desenvolvimento de Sistemas Back-end e formação complementar em Segurança da Informação.  
+[Exercícios no TryHackMe](https://tryhackme.com/p/rodrigoleao.ci)
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/rodrigo-de-oliveira-528a33203/) · [E-mail](mailto:rodrigoleao.ci@gmail.com)
