@@ -38,7 +38,7 @@ Esses trabalhos demonstram experiência com regras de negócio, dados, sistemas 
 
 ## Formação e desenvolvimento contínuo
 
-Graduação em Tecnologia em Desenvolvimento de Sistemas Back-end e formação complementar em Segurança da Informação.  
+Cursando Tecnologia em Desenvolvimento de Sistemas Back-end, com estudos complementares em Segurança da Informação.  
 [Exercícios no TryHackMe](https://tryhackme.com/p/rodrigoleao.ci)
 
 ---
