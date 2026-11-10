@@ -26,7 +26,7 @@ Os projetos de segurança estão **em desenvolvimento**. Ferramentas como SIEM, 
 - **Plataforma de apoio ao PMO:** desenvolvimento de componentes para organizar projetos, equipes, recursos, alocações e comparativos de horas planejadas e realizadas, com tecnologias como FastAPI, Next.js, PostgreSQL e integrações.
 - **Automação de processos financeiros:** desenvolvimento de rotinas em Python para processamento, comparação e validação de informações de diferentes fontes, com geração de relatórios de divergências.
 
-Esses trabalhos demonstram experiência com regras de negócio, dados, sistemas integrados e solução de problemas reais. A divulgação de código e outros materiais corporativos depende de revisão de confidencialidade e autorização.
+Esses trabalhos demonstram experiência com regras de negócio, dados, sistemas integrados e solução de problemas reais. Os projetos são apresentados aqui pelo problema resolvido, pelas tecnologias utilizadas e pelas competências desenvolvidas.
 
 ## Competências técnicas
 
@@ -34,7 +34,7 @@ Esses trabalhos demonstram experiência com regras de negócio, dados, sistemas 
 
 **Estudos atuais de segurança:** redes e protocolos, Linux, Windows, PowerShell/Bash, Active Directory, controle de acesso, análise de tráfego e fundamentos de detecção e resposta.
 
-**Como documento meu aprendizado:** objetivo → procedimento → observação → interpretação → limitações. Os relatórios são baseados em atividades autorizadas, sem publicar flags ou credenciais.
+**Como documento meu aprendizado:** objetivo → procedimento → observação → interpretação → limitações. Os relatórios apresentam atividades em ambientes de treinamento e laboratórios próprios.
 
 ## Formação e desenvolvimento contínuo
 
