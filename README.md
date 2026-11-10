@@ -5,7 +5,7 @@ Experiência anterior em desenvolvimento de software e automação corporativa.
 
 Trabalhei com APIs, bancos de dados, integrações e aplicações de apoio à operação. Atualmente aprofundo fundamentos de redes, Linux, Windows, autenticação e análise de evidências para atuar em segurança defensiva.
 
-📍 Mogi das Cruzes, SP, Brasil · [LinkedIn](https://www.linkedin.com/in/rodrigo-de-oliveira-528a33203/) · [Contato por e-mail](mailto:rodrigoleao.ci@gmail.com)
+📍 Mogi das Cruzes, SP, Brasil · [TryHackMe](https://tryhackme.com/p/rodrigoleao.ci) · [LinkedIn](https://www.linkedin.com/in/rodrigo-de-oliveira-528a33203/) · [Contato por e-mail](mailto:rodrigoleao.ci@gmail.com)
 
 ## Projetos selecionados
 
@@ -38,8 +38,7 @@ Esses trabalhos demonstram experiência com regras de negócio, dados, sistemas 
 
 ## Formação e desenvolvimento contínuo
 
-Cursando Tecnologia em Desenvolvimento de Sistemas Back-end, com estudos complementares em Segurança da Informação.  
-[Exercícios no TryHackMe](https://tryhackme.com/p/rodrigoleao.ci)
+Cursando Tecnologia em Desenvolvimento de Sistemas Back-end, com estudos complementares em Segurança da Informação.
 
 ---
 
